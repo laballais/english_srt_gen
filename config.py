@@ -1,8 +1,7 @@
 # Configure Video Path Here
-
-# Get video name
 import os
 
+# Get video name
 def get_filename_without_extension(file_path):
     # Get the base name of the file (e.g., "video.mp4")
     base_name = os.path.basename(file_path)
