@@ -1,6 +1,6 @@
 # english_srt_gen
 
-This generates English subtitles for your videos.
+This code uses Open AI's Whisper Model to generate English subtitles (srt file) for videos.
 
 Make sure the following are installed in your system:
 
