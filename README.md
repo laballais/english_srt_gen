@@ -13,7 +13,5 @@ Make sure the following are installed in your system:
 
 Configure your input and output paths as well as the model size at config.py.
 
-To run using the Jupyter notebook:
-
-1. Run the preliminaries.ipynb first.
-2. Then run main.ipynb.
+To use this script, run the preliminaries.ipynb one time first. 
+Then you may run main.ipynb for your transcription needs.

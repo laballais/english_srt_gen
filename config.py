@@ -10,7 +10,7 @@ def get_filename_without_extension(file_path):
     return file_name
 
 # Input File
-video_path = "./salbakuta.mp4"  # Input video file
+video_path = "./vlog.mp4"  # Input video file
 video_name = get_filename_without_extension(video_path)
 
 # Output Files 
