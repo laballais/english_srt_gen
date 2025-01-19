@@ -3,6 +3,7 @@
 This generates English subtitles for your videos.
 
 Make sure the following are installed in your system:
+
     python3
     pytorch
     torchvision
