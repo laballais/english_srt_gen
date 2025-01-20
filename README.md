@@ -8,10 +8,17 @@ Make sure the following are installed in your system:
     pytorch
     torchvision
     torchaudio
-    whisper
     ffmpeg
+    whisper
+
+# Configuration
 
 Configure your input and output paths as well as the model size at config.py.
 
-To use this script, run the preliminaries.ipynb one time first. 
-Then you may run main.ipynb for your transcription needs.
+# How to Run
+
+To use this script, run main.ipynb for your transcription needs.
+
+# Troubleshooting
+
+In some cases, the jupyter notebook might not be able to find ffmpeg and whisper modules. Just run the preliminaries.ipynb notebook once. Then run main.ipynb for your transcription needs.
