@@ -1,6 +1,6 @@
 # english_srt_gen
 
-This code uses Open AI's Whisper Model to generate English subtitles (srt file) for videos.
+This code uses OpenAI's Whisper Model to generate English subtitles (SRT file) for any video.
 
 Make sure the following are installed in your system:
 
@@ -22,4 +22,5 @@ To use this script, run main.ipynb for your transcription needs.
 
 # Troubleshooting
 
-In some cases, the jupyter notebook might not be able to find ffmpeg and whisper modules. Just run the preliminaries.ipynb notebook once. Then run main.ipynb for your transcription needs.
+In some cases, the jupyter notebook might not be able to find the FFmpeg and Whisper modules.
+Just run the preliminaries.ipynb notebook once. Then run main.ipynb for your transcription needs.
