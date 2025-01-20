@@ -13,7 +13,8 @@ Make sure the following are installed in your system:
 
 # Configuration
 
-Configure your input and output paths as well as the model size at config.py.
+Configure your input and output paths at pathConfig.py.
+Configure your model at modelConfig.py.
 
 # How to Run
 
